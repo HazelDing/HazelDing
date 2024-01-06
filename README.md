@@ -11,7 +11,7 @@ I am really good at programming languages like SQL and Python, as well as R and 
 * ✉️  You can contact me at [hazelding.ca@gmail.com](mailto:hazelding.ca@gmail.com)
 * 🧠  I'm learning at Humber College
 * 🤝  I'm open to collaborating on Python, Machine Learning
-* ⚡  I am a traveller worldwide
+* ⚡  I am a world traveler
   
 ![Canadian Sales 2023](https://github.com/HazelDing/HazelDing/assets/149340952/915ebc30-a266-4d47-adf0-05b49a50771e)
 
