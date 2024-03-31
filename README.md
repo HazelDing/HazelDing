@@ -6,12 +6,12 @@ Data Analyst
 
 I am really good at programming languages like SQL and Python, as well as R and Hadoop. I also enjoy doing machine learning and visualizaion using Tableau and Power BI. You can check my youtube channel at
 
-* 🌍  I'm based in Ontario
+* 🌍  I'm based in Ontario.
 * 🖥️  See my portfolio at [My Portfolio](http://hazelding-portfolio.netlify.app/)
 * ✉️  You can contact me at [hazelding.ca@gmail.com](mailto:hazelding.ca@gmail.com)
 * 🧠  I'm learning at Humber College
-* 🤝  I'm open to collaborating on Python, Machine Learning
-* ⚡  I am a world traveler
+* 🤝  I'm open to collaborating on Python, SQL, Machine Learning.
+* ⚡  I am a world traveler.
   
 Home Loan Dashboard  |   Canadian Sales Dashboard
 :-------------------:| :--------------------: 
